@@ -1,11 +1,7 @@
-ZarinPal
-========
-#### ZarinPal Gateway Script ####
+### ZarinPal Gateway Script
+Adds support for [ZarinPal](http://zarinpal.com) payment service.
 
-Adds support for ZarinPal payment service.
-
-Usage
------
+####Usage
 ```php
 $merchant_id = '1085ac7c-0a00-4dc7-8cca-2a1e5ee7aeb5';
 $amount = 20000; // Toman
